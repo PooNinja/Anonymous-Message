@@ -1,0 +1,43 @@
+<!-- Titulo do Projeto -->
+# Anonymous Message
+<!-- Logo do Projeto e Video  -->
+[![](./Introdução%20aos%20Protocolos/1.png)]()
+
+## Contribuidor
+Daniel Estevão -- [ danielmartinsjob@gmail.com ]
+
+> Projeto focado na contrução de um Server Tcp
+
+# Navegar pelo Projeto
+
+- [INTRODUÇÃO PROTOCOLOS](./Introdução%20aos%20Protocolos/FileCompacted.pdf)
+
+# Geral do Projeto
+>Criar Servido / Enviar mensagem / Configuração metódos 
+
+<!-- asa -->
+## Tecnologias
+
+#### Tecnologias usadas para Construção do Projeto
+
+- Python
+- QtDesigner
+- Sqlite
+
+## Demo
+- ### Demo Introdução View
+<img 
+    style="width:100px;"
+    src="https://www.stellium.com/wp-content/uploads/2019/06/icon-demo.png" alt="Demo Intro" title="Demo da Introdução">
+
+## Instalação do Projeto
+
+```sh
+Sem modulo para Instalação
+```
+
+## Licença
+
+GPL
+
+**Atividade Livre, Conhecimento é tudo!**
